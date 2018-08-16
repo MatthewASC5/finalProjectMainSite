@@ -1,4 +1,5 @@
 .city{
+    font-size: 115%;
     display: inline-block;
     transform: translateY(50%);
     background-color: black;
@@ -7,6 +8,7 @@
 }
 
 .dirty{
+    font-size: 115%;
     display: inline-block;
     transform: translateY(140%);
     background-color: black;
