@@ -26,7 +26,8 @@ ul {
  
  ul li a{
     color: white;
-    display: block;
+    display: flex;
+    flex-direction:column;
     text-decoration: none;
  }
  
@@ -40,12 +41,15 @@ ul {
  ul li:hover ul li {
     display:block;
  }
-
  map{
      height: 500px;
      width: 100%;
  }
 
+ .contact {
+    display: flex;
+    flex-flow: column wrap;
+}
  *{
      margin: 0;
      padding: 0;
