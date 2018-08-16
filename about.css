@@ -1,0 +1,15 @@
+.city{
+    display: inline-block;
+    transform: translateY(50%);
+    background-color: black;
+    border: solid 2px silver;
+    
+}
+
+.dirty{
+    display: inline-block;
+    transform: translateY(140%);
+    background-color: black;
+    border: solid 2px silver;
+    
+}
