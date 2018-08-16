@@ -50,8 +50,5 @@ ul {
     display: flex;
     flex-flow: column wrap;
 }
- *{
-     margin: 0;
-     padding: 0;
- }
+
 
